@@ -1,4 +1,4 @@
-# Coronavirus-Tweet-Sentiment-Analysis
+# Coronavirus-Tweet-Sentiment-Analysis.
 
 ### Index
 #### 1. Introduction
